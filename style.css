@@ -1,36 +1,13 @@
-.cont{ 
-   display: flex;
-   height: 100vh;
-   flex-wrap:wrap;
-align-items: center;
-height: 100vh;
+.carousel-item img{
+    object-fit: fill;
+    height: 110vh;
 }
-.one{
-  background-color: aqua;
-  width: 100px;
-  height: 100px;
-  flex: basis 25%;
-}
-.two{
-  background-color: rgb(161, 201, 40);
-  width: 100px;
-  height: 100px;
-  flex: basis 25%;
 
+#ddd::placeholder {
+    color: rgb(194, 173, 173);
 }
-.three{
-  background-color: blue;
-  width: 100px;
-  height: 100px;
-  flex-basis: 25%;
-  
-}
-.four{
-  background-color: brown;
-  width: 100px;
-  height: 100px;
-  flex-basis: 25%;
-}
-*{
-  
+#top{
+    height: 100%;
+    width: 50px;
+    margin-right: 10px;
 }
