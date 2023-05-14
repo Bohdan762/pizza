@@ -1,0 +1,36 @@
+.cont{ 
+   display: flex;
+   height: 100vh;
+   flex-wrap:wrap;
+align-items: center;
+height: 100vh;
+}
+.one{
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+  flex: basis 25%;
+}
+.two{
+  background-color: rgb(161, 201, 40);
+  width: 100px;
+  height: 100px;
+  flex: basis 25%;
+
+}
+.three{
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  flex-basis: 25%;
+  
+}
+.four{
+  background-color: brown;
+  width: 100px;
+  height: 100px;
+  flex-basis: 25%;
+}
+*{
+  
+}
