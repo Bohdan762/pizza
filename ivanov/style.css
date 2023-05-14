@@ -1,0 +1,13 @@
+.carousel-item img{
+    object-fit: fill;
+    height: 110vh;
+}
+
+#ddd::placeholder {
+    color: rgb(194, 173, 173);
+}
+#top{
+    height: 100%;
+    width: 50px;
+    margin-right: 10px;
+}
